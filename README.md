@@ -44,7 +44,6 @@ analisis_series_temporales_austral/
 +-- TP2/
 |   |
 |   +-- AST_Script_TP2_Grupo2.ipynb   # Notebook principal (147 celdas)
-|   +-- seccion_10_lstm.html          # Documento academico HTML sobre el modelo LSTM
 |   |
 |   +-- data/
 |   |   +-- ingresos_diarios.csv      # Dataset procesado: ingresos diarios por serie
