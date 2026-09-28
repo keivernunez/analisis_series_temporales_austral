@@ -1,13 +1,4 @@
-# Trabajo Practico N.2 — Analisis de Series Temporales
-
-**Universidad Austral — Maestria en Ciencia de Datos**  
-Materia: Analisis de Series Temporales  
-Profesores: Rodrigo Del Rosso, Sebastian Calcagno, Braian Drago
-
-**Grupo 2**  
-Cacabelos Martin, Maxwell Julia, Nunez Keiver, Sandagorda Patricia, Tello Carmen
-
----
+# Analisis de Series Temporales
 
 ## Descripcion del proyecto
 
