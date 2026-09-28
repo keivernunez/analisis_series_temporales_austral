@@ -196,18 +196,6 @@ seccion 9 de la notebook.
 
 ---
 
-## Documentacion adicional
-
-`TP2/seccion_10_lstm.html`: documento academico en formato HTML que explica con
-rigor la implementacion y los resultados del modelo LSTM (seccion 10 de la notebook).
-Incluye fundamento teorico con las ecuaciones de las compuertas LSTM, descripcion del
-proceso de optimizacion con Optuna, analisis de metricas, diagnostico de residuos y
-bibliografia con DOIs verificables. Las figuras generadas por la notebook estan
-embebidas directamente en el HTML. Disenado para ser incorporado en el informe final
-del trabajo practico.
-
----
-
 ## Notas sobre los datos crudos
 
 Los archivos en `TP2/raw/` son los datasets originales de viajes descargados de la
