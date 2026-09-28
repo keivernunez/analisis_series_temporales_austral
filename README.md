@@ -1,7 +1,5 @@
 # Analisis de Series Temporales
 
----
-
 ## Descripcion del proyecto
 
 Este repositorio contiene el desarrollo completo del Trabajo Practico N.2 de la
