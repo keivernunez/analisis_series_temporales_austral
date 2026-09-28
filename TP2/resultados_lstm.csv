@@ -1,0 +1,4 @@
+Serie,Modelo,RMSE,MAE,MAPE%,RMSE_CV,MAE_CV,gap_CV_test_%
+Taxi verde — Williamsburg,LSTM,118.11,73.9,41.4,177.35,97.33,-33.4
+Uber — Midtown Center,LSTM,75913.61,55354.86,18.35,127844.59,92635.83,-40.6
+Uber — Williamsburg,LSTM,19854.53,15330.54,8.75,40798.21,27857.37,-51.3
